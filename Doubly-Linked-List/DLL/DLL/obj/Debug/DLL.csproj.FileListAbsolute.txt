@@ -1,0 +1,8 @@
+H:\Projecten\Doubly Linked List\DLL\DLL\bin\Debug\DLL.exe.config
+H:\Projecten\Doubly Linked List\DLL\DLL\bin\Debug\DLL.exe
+H:\Projecten\Doubly Linked List\DLL\DLL\bin\Debug\DLL.pdb
+H:\Projecten\Doubly Linked List\DLL\DLL\obj\Debug\DLL.Form1.resources
+H:\Projecten\Doubly Linked List\DLL\DLL\obj\Debug\DLL.Properties.Resources.resources
+H:\Projecten\Doubly Linked List\DLL\DLL\obj\Debug\DLL.csproj.GenerateResource.Cache
+H:\Projecten\Doubly Linked List\DLL\DLL\obj\Debug\DLL.exe
+H:\Projecten\Doubly Linked List\DLL\DLL\obj\Debug\DLL.pdb
